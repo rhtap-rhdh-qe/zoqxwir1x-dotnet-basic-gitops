@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zoqxwir1x-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zoqxwir1x-dotnet-basic-gitops
